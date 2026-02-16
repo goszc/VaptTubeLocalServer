@@ -24,6 +24,7 @@ Este app usa **PyInstaller** e **Uvicorn**. Como é um script Python compilado q
 
 #### 1. Download
 Baixe os dois arquivos deste repositório:
+- `VaptTubeEngine.zip` (Recomendado - Contém os dois arquivos abaixo)
 - `YoutubeDownloaderEngine.exe` (O motor principal)
 - `ffmpeg.exe` (Necessário para processamento de áudio/vídeo)
 
@@ -64,6 +65,7 @@ This application is built using **PyInstaller** and **Uvicorn**. Because it is a
 
 #### 1. Download
 Download both files from this repository:
+- `VaptTubeEngine.zip` (Recommended - Contains both files below)
 - `YoutubeDownloaderEngine.exe` (Main engine)
 - `ffmpeg.exe` (Required for audio/video processing)
 
